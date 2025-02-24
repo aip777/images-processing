@@ -1,18 +1,18 @@
 # Image Processing 
 
-1. Clone the repository:
+Clone the repository:
    ```sh
    git clone https://github.com/aip777/images-processing
    cd images-processing
    ```
 
-2. Create a virtual environment and activate it:
+Create a virtual environment and activate it:
    ```sh
    python -m venv venv
    source venv/bin/activate
    ```
 
-3. Install dependencies:
+Install dependencies:
    ```sh
    pip install -r packages.txt
    ```
